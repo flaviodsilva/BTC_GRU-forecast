@@ -22,6 +22,7 @@ Most of the papers in the area talk about RNN and LSTM when predicting cryptocur
 
 Assuming those conclusions, a GRU network was implemented. As for the architecture, different amounts of GRU blocks were tested, as well as dropouts, that will help with over-fitting. The number of blocks (GRU plus dropout) will be defined after observing the results a given architecture produces. At the end of it will be a dense block, with linear activation function.
 
-© Flávio Silva, Gonçalo Duarte Nunes
 
+
+© Flávio Silva, Gonçalo Duarte Nunes
 Source code will not be disclosed, but it can be shared if necessary
