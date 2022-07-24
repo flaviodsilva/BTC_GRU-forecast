@@ -25,4 +25,5 @@ Assuming those conclusions, a GRU network was implemented. As for the architectu
 
 
 © Flávio Silva, Gonçalo Duarte Nunes
+
 Source code will not be disclosed, but it can be shared if necessary
